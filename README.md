@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**lakshita08977/lakshita08977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 # 💫 About Me:
 I'm currently working on — my campus ambassador role at GeeksForGeeks, creating tech content and engaging the developer community<br>👥 I'm looking to collaborate on — React.js frontend projects, data visualization dashboards, or anything combining ML with a clean UI<br>💛 I'm looking for help with — deepening my knowledge of backend development and integrating ML models into full-stack web apps<br>🌱 I'm currently learning — Cyber Security fundamentals as part of my B.Tech at IILM, Gurgaon, along with cloud architecture on Microsoft Azure<br>💬 Ask me about — React.js, Python, data science libraries (NumPy, Pandas, Scikit-Learn), or getting started with Microsoft Azure<br>⚡ Fun fact — I received a scholarship for my B.Tech in Cyber Security and earned my Azure AZ-900 certification before turning 19!<br><br>Want me to also write a short intro paragraph (the banner/bio section at the top of your GitHub profile), or format all of this as a ready-to-paste README.md file?
